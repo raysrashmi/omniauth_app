@@ -1,0 +1,7 @@
+twitter:
+  key: 'twitter_key'
+  secret: twitter_seceret'
+  
+facebook:
+  key: 'facebook_key'
+  secret: 'facebook_seceret'
